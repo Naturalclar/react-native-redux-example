@@ -1,7 +1,8 @@
 module.exports = {
     "extends": "airbnb",
     "plugins": [
-        "flowtype"
+        "flowtype",
+        "react-native",
     ],
     "parser": "babel-eslint",
     "rules": {
